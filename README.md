@@ -44,7 +44,7 @@
 	spring.mail.transport.protocol=smtp
 	spring.mail.username=your.email@gmail.com
 	spring.mail.password=password`
-Read [Google SMTP common issues](https://help.dreamhost.com/hc/en-us/articles/115001719551-Troubleshooting-GMAIL-SMTP-authentication-errors)
+
 
 - Run the project from **BackendApplication.java**, all the tables will be initialised in database with its first run.
 - Now execute **roles.sql** on your database.
@@ -52,6 +52,6 @@ Read [Google SMTP common issues](https://help.dreamhost.com/hc/en-us/articles/11
 ### Frontend
 - You should have node.js installed on your system.
 - GOTO the path of **frontend** folder in comand-prompt and run `npm start`  instead of ~~`ng serve`~~ because i have configured different port number for frontend.
-- Now your frontend will be hosted on http://localhost:8001 ,open this link in browser.(only for DEV)
+
 
 
