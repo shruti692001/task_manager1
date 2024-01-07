@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../TASK-Management-System-master"
+		},
+		{
+			"name": "task_manager",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
