@@ -54,10 +54,4 @@ Read [Google SMTP common issues](https://help.dreamhost.com/hc/en-us/articles/11
 - GOTO the path of **frontend** folder in comand-prompt and run `npm start`  instead of ~~`ng serve`~~ because i have configured different port number for frontend.
 - Now your frontend will be hosted on http://localhost:8001 ,open this link in browser.(only for DEV)
 
-You can connect to me at [Linkedin](https://www.linkedin.com/in/ayushman1024/)
 
-Report an issue here [![Gitter](https://badges.gitter.im/TMS-Community/community.svg)](https://gitter.im/TMS-Community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-<a href="https://www.buymeacoffee.com/ar7HQlZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width=15% height=15%></a>
-
-<img src="https://github-pages-visitor.herokuapp.com/counterimg/githubDashboard_TMS" alt="" width="5"/>
